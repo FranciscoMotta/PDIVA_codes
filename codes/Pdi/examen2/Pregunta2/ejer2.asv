@@ -1,0 +1,5 @@
+clc, clear all, close all;
+fig1=imread('Figura1.jpg');
+fig2=imread('Figura2.jpg');
+
+fig1_gris=rgb2gray(
